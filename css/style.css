@@ -112,6 +112,9 @@ body{
         font-size: 20px;
         color:crimson;
     }
+    h5 {
+        font-size: 30px;
+        color: #f8613ff1; }
     p{
         margin: 0 10% 1% 10%;
         line-height: 2;
